@@ -5,7 +5,7 @@ I am a **Computer Science and Engineering** student at [**Instituto Superior Té
 ## 🚀 About Me
 - 🎓  Final year student at IST, focusing on Data Science and Software Engineering.
 - ⚜️  A long-time Scout, where I've honed my leadership, creative problem-solving, and resilience.
-- 💡  Proactive and challenge-driven. I firmly believe that collaboration and continuous learning are the keys to achieving impactful results.
+- 💡  Proactive, challenge-driven, and a firm believer in collaboration and continuous learning as the keys to impactful results.
 
 ## 🛠️ Tech Stack & Tools
 
