@@ -3,7 +3,7 @@
 I am a **Computer Science and Engineering** student at [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/pt/), currently finishing my Bachelor's degree while simultaneously attending Master's courses specialized in **Data Science**.
 
 ## 🚀 About Me
-- 🎓  Final year student at IST, focusing on Data Science and Software Engineering.
+- 🎓  Final year student at IST, focusing on Data Science.
 - ⚜️  A long-time Scout, where I've honed my leadership, creative problem-solving, and resilience.
 - 💡  Proactive, challenge-driven, and a firm believer in collaboration and continuous learning as the keys to impactful results.
 
