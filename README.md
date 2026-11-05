@@ -1,6 +1,6 @@
 # Hi, I'm Tiago Nazareth Costa! 👋
 
-I am a **Computer Science and Engineering** student at [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/pt/), currently finishing my Bachelor's degree while simultaneously attending Master's courses specialized in **Data Science**.
+I am a **Computer Science and Engineering** student at [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/pt/), currently finishing my Master's degree specialized in **Data Science** and with hands-on experience in **Data & Analytics**.
 
 ## 🚀 About Me
 - 🎓  Final year student at IST, focusing on Data Science.
